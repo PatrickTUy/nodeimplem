@@ -11,6 +11,6 @@ mongoose
     app.use('/api', routes); // new
 
     app.listen(5000, () => {
-      console.log('the Server has started and listening!');
+      console.log('now the Server has started and listening!');
     });
   });
